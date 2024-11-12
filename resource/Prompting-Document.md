@@ -40,9 +40,9 @@ This version of Vishwakarma is grounded in the Godspeed system and follows found
 #### 3. Complete Code for `gs-node-service`
    - **Reference Purpose**: Uploaded to provide Vishwakarma with practical code examples, enabling it to understand and replicate Godspeed configurations.
 
-#### 4. Full Godspeed Project Code
-   - **Contextual Prompting**: Emphasized this file as the primary reference for architectural details.
-   - **Scope of Testing**: Questions focused on event creation, plugin setup, and workflows to confirm alignment with Godspeed’s overall structure.
+#### 4. LOS Project Code
+   - **Primary Reference for Project Structure**: This file was highlighted as the most comprehensive reference for Godspeed’s project structure, serving as a primary guide for Vishwakarma GPT to follow.
+   - **Comprehensive Testing Scope**: The model was tested on questions related to event creation and workflow configuration to ensure thorough alignment with the complete Godspeed project structure.
 
 #### 5. Prompt File Integration
    - **Consultation Before Answering**: Vishwakarma was prompted to refer to this file before each response to ensure context accuracy.
